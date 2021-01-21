@@ -1,0 +1,23 @@
+.house-container {
+    background: lightgrey;
+    width: 100%;
+}
+
+.house-card {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.house-details {
+    margin-right: 20px;
+}
+
+.house-card img {
+    width: 300px;
+}
+
+.rent {
+    font-weight: bold;
+}
+

@@ -1,0 +1,16 @@
+
+.results-title {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 6px;
+}
+
+.house-and-map {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.houses-container {
+    width: 60%;
+}

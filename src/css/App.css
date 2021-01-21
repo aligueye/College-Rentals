@@ -1,0 +1,53 @@
+/* Nav stuff */
+body {
+  background-color: #f5f5f5;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  display: grid;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 1px;
+}
+
+.nav-container {
+  display: flex;
+  align-items: stretch;
+}
+
+.nav-container div {
+  margin:10px;
+  padding: 20px;
+  text-align: justify;
+  text-justify: auto;
+}
+
+.nav-container a {
+  text-decoration: none;
+  color:black;
+}
+
+.brand-name {
+  flex-grow: 8;
+  font-size: 25px;
+}
+
+/* Google map stuff */
+.main-wrapper {
+  height: 60vh;
+  margin: 10px 50px;
+  filter: drop-shadow(-1px 5px 3px #ccc);
+}
+.info-wrapper {
+  margin-top: 15px;
+}
+.map-details {
+  text-align: center;
+  font-size: 1.2em;
+}
+.map-details span {
+  font-weight: bold;
+}
+.search-input {
+  font-size: 1.2em;
+  width: 80%;
+}
