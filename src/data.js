@@ -22,7 +22,9 @@ export const houseData = [
         img: house1,
         lat: 40.2542825,
         lng: -74.7759146,
-        icon: icon
+        icon: icon,
+        verified: 'Yes',
+        contact: '201-123-4567'
     },
     {
         id: 1,
@@ -34,7 +36,9 @@ export const houseData = [
         img: house2,
         lat: 40.2601586,
         lng: -74.77595579999999,
-        icon: icon
+        icon: icon,
+        verified: 'No',
+        contact: '201-123-4567'
     },
     {
         id: 2,
@@ -46,7 +50,9 @@ export const houseData = [
         img: house11,
         lat: 40.2610546,
         lng: -74.78876939999999,
-        icon: icon
+        icon: icon,
+        verified: 'No',
+        contact: '201-123-4567'
     },
     {
         id: 3,
@@ -58,7 +64,9 @@ export const houseData = [
         img: house4,
         lat: 40.3528525,
         lng: -74.6532967,
-        icon: icon
+        icon: icon,
+        verified: 'Yes',
+        contact: '201-123-4567'
     },
     {
         id: 4,
@@ -70,7 +78,9 @@ export const houseData = [
         img: house5,
         lat: 40.2427319,
         lng: -74.783957,
-        icon: icon
+        icon: icon,
+        verified: 'Yes',
+        contact: '201-123-4567'
     },
     {
         id: 5,
@@ -81,7 +91,9 @@ export const houseData = [
         img: house6,
         lat: 40.2809195,
         lng: -74.7615261,
-        icon: icon
+        icon: icon,
+        verified: 'No',
+        contact: '201-123-4567'
     },
     {
         id: 6,
@@ -92,7 +104,9 @@ export const houseData = [
         img: house7,
         lat: 40.2148496,
         lng: -74.75188390000001,
-        icon: icon
+        icon: icon,
+        verified: 'Yes',
+        contact: '201-123-4567'
     },
     {
         id: 7,
@@ -104,7 +118,9 @@ export const houseData = [
         img: house8,
         lat: 40.23358899999999,
         lng: -74.7649969,
-        icon: icon
+        icon: icon,
+        verified: 'No',
+        contact: '201-123-4567'
     },
     {
         id: 8,
@@ -115,7 +131,9 @@ export const houseData = [
         img: house9,
         lat: 40.2593652,
         lng: -74.80996379999999,
-        icon: icon
+        icon: icon,
+        verified: 'Yes',
+        contact: '201-123-4567'
     },
     {
         id: 9,
@@ -126,6 +144,8 @@ export const houseData = [
         img: house10,
         lat: 40.2683171,
         lng: -74.80906870000001,
-        icon: icon
+        icon: icon,
+        verified: 'No',
+        contact: '201)-123-4567'
     }
 ];

@@ -13,6 +13,8 @@ export default function Houses() {
                             <p>{data.address}</p>
                             <p>Bed: {data.bed}</p>
                             <p>Bath: {data.bath}</p>
+                            <p>Verified: {data.verified}</p>
+                            <p>Contact: {data.contact}</p>
                         </div>
                         <div><img src={data.img} /></div>
                     </div> 
